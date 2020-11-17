@@ -1,0 +1,23 @@
+{
+    "name": "Champions League Official Platform",
+    "short_name": "Champions League",
+    "description": "Platform that you need about Champions League",
+    "lang": "en",
+    "start_url": "/index.html",
+    "background_color": "#000000",
+    "theme_color": "#000000",
+    "display": "standalone",
+    "icons": [
+        {
+            "src": "assets/icon/logo-512x512.png",
+            "type": "image/png",
+            "sizes": "512x512"
+        },
+        {
+            "src": "assets/icon/logo-192x192.png",
+            "type": "image/png",
+            "sizes": "192x192"
+        }
+    ],
+    "gcm_sender_id": "273257854491"
+}

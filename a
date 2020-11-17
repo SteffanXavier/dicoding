@@ -1,0 +1,130 @@
+<table class="table table--standings" data-group="">
+      <thead>
+        <tr>
+          <th class="table_team-name"></th>
+          <th class="table_team-played">
+            <span class="label--big">Played</span>
+            <span class="label--small">P</span>
+          </th>
+          <th class="table_team-won">
+            <span class="label--big">Won</span>
+            <span class="label--small">W</span>
+          </th>
+          <th class="table_team-drawn">
+            <span class="label--big">Drawn</span>
+            <span class="label--small">D</span>
+          </th>
+          <th class="table_team-lost">
+            <span class="label--big">Lost</span>
+            <span class="label--small">L</span>
+          </th>
+          <th class="table_team-for">
+            <span class="label--big">For</span>
+          </th>
+          <th class="table_team-against">
+            <span class="label--big">Against</span>
+          </th>
+          <th class="table_team-goal-diff">
+            Goal difference
+          </th>
+          <th class="table_team-points">
+            <span class="label--big">Points</span>
+            <span class="label--small">Pts</span>
+          </th>
+        </tr>
+      </thead>
+      <tbody>
+          
+          
+          
+          
+      <tr data-is-current-team="0" data-team-id="50037" data-rank="1" class="">
+            <td class="table_team-name">
+                <a href="/uefachampionsleague/clubs/50037--bayern/" class="table_team-name_block" title="Bayern">
+                  <div class="table_team-rank"></div>
+                  <img class="club-logo lazyautosizes lazyloaded" data-sizes="auto" src="https://img.uefa.com/imgml/TP/teams/logos/clublogo_140X140.png" data-srcset="https://img.uefa.com/imgml/TP/teams/logos/140X140/50037.png?imwidth=5000 5000w, https://img.uefa.com/imgml/TP/teams/logos/140X140/50037.png?imwidth=700 700w, https://img.uefa.com/imgml/TP/teams/logos/140X140/50037.png?imwidth=400 400w, https://img.uefa.com/imgml/TP/teams/logos/140X140/50037.png?imwidth=324 324w, https://img.uefa.com/imgml/TP/teams/logos/140X140/50037.png?imwidth=166 166w, https://img.uefa.com/imgml/TP/teams/logos/140X140/50037.png?imwidth=140 140w, https://img.uefa.com/imgml/TP/teams/logos/140X140/50037.png?imwidth=83 83w, https://img.uefa.com/imgml/TP/teams/logos/140X140/50037.png?imwidth=75 75w, https://img.uefa.com/imgml/TP/teams/logos/140X140/50037.png?imwidth=65 65w, https://img.uefa.com/imgml/TP/teams/logos/140X140/50037.png?imwidth=36 36w" data-fallback="https://img.uefa.com/imgml/TP/teams/logos/clublogo_140X140.png" title="FC Bayern München" alt="FC Bayern München" sizes="32px" srcset="https://img.uefa.com/imgml/TP/teams/logos/140X140/50037.png?imwidth=5000 5000w, https://img.uefa.com/imgml/TP/teams/logos/140X140/50037.png?imwidth=700 700w, https://img.uefa.com/imgml/TP/teams/logos/140X140/50037.png?imwidth=400 400w, https://img.uefa.com/imgml/TP/teams/logos/140X140/50037.png?imwidth=324 324w, https://img.uefa.com/imgml/TP/teams/logos/140X140/50037.png?imwidth=166 166w, https://img.uefa.com/imgml/TP/teams/logos/140X140/50037.png?imwidth=140 140w, https://img.uefa.com/imgml/TP/teams/logos/140X140/50037.png?imwidth=83 83w, https://img.uefa.com/imgml/TP/teams/logos/140X140/50037.png?imwidth=75 75w, https://img.uefa.com/imgml/TP/teams/logos/140X140/50037.png?imwidth=65 65w, https://img.uefa.com/imgml/TP/teams/logos/140X140/50037.png?imwidth=36 36w">
+                  <span class="team-code">BAY</span>
+                  <span class="team-name js-team-name">
+                    FC Bayern München
+                    <span class="now-playing_label">Playing now</span>
+                  </span>
+                </a>
+            </td>
+            <td class="table_team-played js-played">2</td>
+            <td class="table_team-won js-won">2</td>
+            <td class="table_team-drawn js-drawn">0</td>
+            <td class="table_team-lost js-lost">0</td>
+            <td class="table_team-for js-goalsFor">6</td>
+            <td class="table_team-against js-goalsAgainst">1</td>
+            <td class="table_team-goal-diff js-goalDifference">5</td>
+            <td class="table_team-points">
+              <strong class="js-points">6</strong>
+            </td>
+          </tr><tr data-is-current-team="0" data-team-id="50124" data-rank="2" class="">
+            <td class="table_team-name">
+                <a href="/uefachampionsleague/clubs/50124--atletico/" class="table_team-name_block" title="Atlético">
+                  <div class="table_team-rank"></div>
+                  <img class="club-logo lazyautosizes lazyloaded" data-sizes="auto" src="https://img.uefa.com/imgml/TP/teams/logos/clublogo_140X140.png" data-srcset="https://img.uefa.com/imgml/TP/teams/logos/140X140/50124.png?imwidth=5000 5000w, https://img.uefa.com/imgml/TP/teams/logos/140X140/50124.png?imwidth=700 700w, https://img.uefa.com/imgml/TP/teams/logos/140X140/50124.png?imwidth=400 400w, https://img.uefa.com/imgml/TP/teams/logos/140X140/50124.png?imwidth=324 324w, https://img.uefa.com/imgml/TP/teams/logos/140X140/50124.png?imwidth=166 166w, https://img.uefa.com/imgml/TP/teams/logos/140X140/50124.png?imwidth=140 140w, https://img.uefa.com/imgml/TP/teams/logos/140X140/50124.png?imwidth=83 83w, https://img.uefa.com/imgml/TP/teams/logos/140X140/50124.png?imwidth=75 75w, https://img.uefa.com/imgml/TP/teams/logos/140X140/50124.png?imwidth=65 65w, https://img.uefa.com/imgml/TP/teams/logos/140X140/50124.png?imwidth=36 36w" data-fallback="https://img.uefa.com/imgml/TP/teams/logos/clublogo_140X140.png" title="Club Atlético de Madrid" alt="Club Atlético de Madrid" sizes="32px" srcset="https://img.uefa.com/imgml/TP/teams/logos/140X140/50124.png?imwidth=5000 5000w, https://img.uefa.com/imgml/TP/teams/logos/140X140/50124.png?imwidth=700 700w, https://img.uefa.com/imgml/TP/teams/logos/140X140/50124.png?imwidth=400 400w, https://img.uefa.com/imgml/TP/teams/logos/140X140/50124.png?imwidth=324 324w, https://img.uefa.com/imgml/TP/teams/logos/140X140/50124.png?imwidth=166 166w, https://img.uefa.com/imgml/TP/teams/logos/140X140/50124.png?imwidth=140 140w, https://img.uefa.com/imgml/TP/teams/logos/140X140/50124.png?imwidth=83 83w, https://img.uefa.com/imgml/TP/teams/logos/140X140/50124.png?imwidth=75 75w, https://img.uefa.com/imgml/TP/teams/logos/140X140/50124.png?imwidth=65 65w, https://img.uefa.com/imgml/TP/teams/logos/140X140/50124.png?imwidth=36 36w">
+                  <span class="team-code">ATL</span>
+                  <span class="team-name js-team-name">
+                    Club Atlético de Madrid
+                    <span class="now-playing_label">Playing now</span>
+                  </span>
+                </a>
+            </td>
+            <td class="table_team-played js-played">2</td>
+            <td class="table_team-won js-won">1</td>
+            <td class="table_team-drawn js-drawn">0</td>
+            <td class="table_team-lost js-lost">1</td>
+            <td class="table_team-for js-goalsFor">3</td>
+            <td class="table_team-against js-goalsAgainst">6</td>
+            <td class="table_team-goal-diff js-goalDifference">-3</td>
+            <td class="table_team-points">
+              <strong class="js-points">3</strong>
+            </td>
+          </tr><tr data-is-current-team="0" data-team-id="53065" data-rank="3" class="">
+            <td class="table_team-name">
+                <a href="/uefachampionsleague/clubs/53065--lokomotiv-moskva/" class="table_team-name_block" title="Lokomotiv Moskva">
+                  <div class="table_team-rank"></div>
+                  <img class="club-logo lazyautosizes lazyloaded" data-sizes="auto" src="https://img.uefa.com/imgml/TP/teams/logos/clublogo_140X140.png" data-srcset="https://img.uefa.com/imgml/TP/teams/logos/140X140/53065.png?imwidth=5000 5000w, https://img.uefa.com/imgml/TP/teams/logos/140X140/53065.png?imwidth=700 700w, https://img.uefa.com/imgml/TP/teams/logos/140X140/53065.png?imwidth=400 400w, https://img.uefa.com/imgml/TP/teams/logos/140X140/53065.png?imwidth=324 324w, https://img.uefa.com/imgml/TP/teams/logos/140X140/53065.png?imwidth=166 166w, https://img.uefa.com/imgml/TP/teams/logos/140X140/53065.png?imwidth=140 140w, https://img.uefa.com/imgml/TP/teams/logos/140X140/53065.png?imwidth=83 83w, https://img.uefa.com/imgml/TP/teams/logos/140X140/53065.png?imwidth=75 75w, https://img.uefa.com/imgml/TP/teams/logos/140X140/53065.png?imwidth=65 65w, https://img.uefa.com/imgml/TP/teams/logos/140X140/53065.png?imwidth=36 36w" data-fallback="https://img.uefa.com/imgml/TP/teams/logos/clublogo_140X140.png" title="FC Lokomotiv Moskva" alt="FC Lokomotiv Moskva" sizes="32px" srcset="https://img.uefa.com/imgml/TP/teams/logos/140X140/53065.png?imwidth=5000 5000w, https://img.uefa.com/imgml/TP/teams/logos/140X140/53065.png?imwidth=700 700w, https://img.uefa.com/imgml/TP/teams/logos/140X140/53065.png?imwidth=400 400w, https://img.uefa.com/imgml/TP/teams/logos/140X140/53065.png?imwidth=324 324w, https://img.uefa.com/imgml/TP/teams/logos/140X140/53065.png?imwidth=166 166w, https://img.uefa.com/imgml/TP/teams/logos/140X140/53065.png?imwidth=140 140w, https://img.uefa.com/imgml/TP/teams/logos/140X140/53065.png?imwidth=83 83w, https://img.uefa.com/imgml/TP/teams/logos/140X140/53065.png?imwidth=75 75w, https://img.uefa.com/imgml/TP/teams/logos/140X140/53065.png?imwidth=65 65w, https://img.uefa.com/imgml/TP/teams/logos/140X140/53065.png?imwidth=36 36w">
+                  <span class="team-code">LMO</span>
+                  <span class="team-name js-team-name">
+                    FC Lokomotiv Moskva
+                    <span class="now-playing_label">Playing now</span>
+                  </span>
+                </a>
+            </td>
+            <td class="table_team-played js-played">2</td>
+            <td class="table_team-won js-won">0</td>
+            <td class="table_team-drawn js-drawn">1</td>
+            <td class="table_team-lost js-lost">1</td>
+            <td class="table_team-for js-goalsFor">3</td>
+            <td class="table_team-against js-goalsAgainst">4</td>
+            <td class="table_team-goal-diff js-goalDifference">-1</td>
+            <td class="table_team-points">
+              <strong class="js-points">1</strong>
+            </td>
+          </tr><tr data-is-current-team="0" data-team-id="50030" data-rank="4" class="">
+            <td class="table_team-name">
+                <a href="/uefachampionsleague/clubs/50030--salzburg/" class="table_team-name_block" title="Salzburg">
+                  <div class="table_team-rank"></div>
+                  <img class="club-logo lazyautosizes lazyloaded" data-sizes="auto" src="https://img.uefa.com/imgml/TP/teams/logos/clublogo_140X140.png" data-srcset="https://img.uefa.com/imgml/TP/teams/logos/140X140/50030.png?imwidth=5000 5000w, https://img.uefa.com/imgml/TP/teams/logos/140X140/50030.png?imwidth=700 700w, https://img.uefa.com/imgml/TP/teams/logos/140X140/50030.png?imwidth=400 400w, https://img.uefa.com/imgml/TP/teams/logos/140X140/50030.png?imwidth=324 324w, https://img.uefa.com/imgml/TP/teams/logos/140X140/50030.png?imwidth=166 166w, https://img.uefa.com/imgml/TP/teams/logos/140X140/50030.png?imwidth=140 140w, https://img.uefa.com/imgml/TP/teams/logos/140X140/50030.png?imwidth=83 83w, https://img.uefa.com/imgml/TP/teams/logos/140X140/50030.png?imwidth=75 75w, https://img.uefa.com/imgml/TP/teams/logos/140X140/50030.png?imwidth=65 65w, https://img.uefa.com/imgml/TP/teams/logos/140X140/50030.png?imwidth=36 36w" data-fallback="https://img.uefa.com/imgml/TP/teams/logos/clublogo_140X140.png" title="FC Salzburg" alt="FC Salzburg" sizes="32px" srcset="https://img.uefa.com/imgml/TP/teams/logos/140X140/50030.png?imwidth=5000 5000w, https://img.uefa.com/imgml/TP/teams/logos/140X140/50030.png?imwidth=700 700w, https://img.uefa.com/imgml/TP/teams/logos/140X140/50030.png?imwidth=400 400w, https://img.uefa.com/imgml/TP/teams/logos/140X140/50030.png?imwidth=324 324w, https://img.uefa.com/imgml/TP/teams/logos/140X140/50030.png?imwidth=166 166w, https://img.uefa.com/imgml/TP/teams/logos/140X140/50030.png?imwidth=140 140w, https://img.uefa.com/imgml/TP/teams/logos/140X140/50030.png?imwidth=83 83w, https://img.uefa.com/imgml/TP/teams/logos/140X140/50030.png?imwidth=75 75w, https://img.uefa.com/imgml/TP/teams/logos/140X140/50030.png?imwidth=65 65w, https://img.uefa.com/imgml/TP/teams/logos/140X140/50030.png?imwidth=36 36w">
+                  <span class="team-code">SBG</span>
+                  <span class="team-name js-team-name">
+                    FC Salzburg
+                    <span class="now-playing_label">Playing now</span>
+                  </span>
+                </a>
+            </td>
+            <td class="table_team-played js-played">2</td>
+            <td class="table_team-won js-won">0</td>
+            <td class="table_team-drawn js-drawn">1</td>
+            <td class="table_team-lost js-lost">1</td>
+            <td class="table_team-for js-goalsFor">4</td>
+            <td class="table_team-against js-goalsAgainst">5</td>
+            <td class="table_team-goal-diff js-goalDifference">-1</td>
+            <td class="table_team-points">
+              <strong class="js-points">1</strong>
+            </td>
+          </tr></tbody>
+    </table>

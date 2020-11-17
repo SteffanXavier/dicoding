@@ -1,0 +1,50 @@
+@media (max-width: 513px){
+    #logo-container{
+        font-size: large;
+    }
+}
+
+.standing-info{
+    box-shadow: 0 4px 2px -2px rgba(0,0,0,0.25);
+}
+
+.table-image-team{
+    max-height: 75px !important;
+}
+
+.td, .th{
+    text-align: center; 
+}
+
+.img-team{
+    height: auto;
+    width: 100%;
+}
+
+.table-standings{
+    width: 100%;
+}
+.table-standings td{
+    text-align: center;
+}
+
+.label--big{
+    display: block;
+}
+.label--small{
+    display: none;
+}
+
+.table_team-image img{
+    max-width: 10vw;
+    max-height: 10vw;
+}
+
+@media (max-width: 700px){
+    .label--big{
+        display: none;
+    }
+    .label--small{
+        display: block;
+    }
+}
